@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/fps_r_files/scene1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
